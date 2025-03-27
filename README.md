@@ -14,3 +14,4 @@ Functional dll injector by PID in Task Manager.
 2. Switch to the "Details" tab (in Windows 11, switching is performed in the menu) or "Details" (in Windows 10);
 3. Pay attention to the "Process ID" column — this is the desired PID.
 
+![Image](https://github.com/user-attachments/assets/7f48bb9f-c95d-4e30-bf09-179fa7848c24)
